@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: Mr. Gao的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+title: Mr. Gao的博客
+SEOTitle: Mr. Gao的博客 | 技术博客 | http://www.mrgao.tech/
+header-img: http://www.mrgao.tech/wp-content/themes/Kratos/images/background.jpg
+email: mrgaotech@126.com
+description: "长风破浪会有时  直挂云帆济沧海"
+keyword: "Mr. Gao的博客, cadence, 吉他, 摄影, 音乐"
+url: "http://mrgolftech.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: http://www.mrgao.tech/wp-content/uploads/2017/04/IMG_2019.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:   
+zhihu_username:     
+github_username:    
+facebook_username:  
+jianshu_username:   
+#twitter_username:   
 
 
 
